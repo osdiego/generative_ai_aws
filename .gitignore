@@ -1,0 +1,8 @@
+# Virtual environment directories
+.venv
+
+# Poetry files
+poetry.lock
+
+# System files
+.DS_Store
