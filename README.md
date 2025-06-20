@@ -1,6 +1,6 @@
 # Generative AI on AWS
 
-This repository contains code samples for building ML models and knowledge gained during the AWS and Udacity partnership course.
+This repository contains code samples for building ML models, knowledge gained during the AWS and Udacity partnership course.
 
 ## Features
 
